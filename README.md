@@ -1,4 +1,4 @@
-# aneel_web_scraping
+# Captura de Dados do site da ANEEL
 Captura de dados de tensão nominal secundária dos municípios a partir do site da ANEEL 
 
 Projeto de coleta de dados na web (Web Scraping) através de Python e Power Automate que desenvolvi para adquirir dados diretamente do site da ANEEL.
